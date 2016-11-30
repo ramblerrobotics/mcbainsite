@@ -1,0 +1,42 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav li {
+    float: right;
+}
+
+.nav a {
+    display: block;
+    padding: 14px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover {
+    background-color: #00721a;
+}
+
+.master {
+    width: 100%;
+    height: 48px;
+    background-color: #1a1a1a;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 256px;
+    max-height: 48px;
+    float: left;
+    display: inline;
+    margin-right: 256px;
+}
