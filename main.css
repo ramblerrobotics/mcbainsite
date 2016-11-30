@@ -9,10 +9,10 @@ body {
 }
 
 .nav li {
-    float: right;
 }
 
 .nav a {
+   float: right;
     display: block;
     padding: 14px;
     text-decoration: none;
@@ -36,7 +36,5 @@ body {
 img {
     max-width: 256px;
     max-height: 48px;
-    float: left;
-    display: inline;
-    margin-right: 256px;
 }
+
